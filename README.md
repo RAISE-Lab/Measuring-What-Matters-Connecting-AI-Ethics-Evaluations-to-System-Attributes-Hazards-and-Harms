@@ -6,7 +6,7 @@ Over the past decade, an ecosystem of measures has emerged to evaluate the socia
 Currently, this work is on Version 2.0 of the publicly shared dataset and corresponding visualization. It is named "RAI_Measures_Dataset_Version_2.0.xlsx". The dataset is in a Microsoft Excel (.xslx) format. Note that it is not recommended to open the file in a .csv format due to the increased likelihood of corrupted characters and file formatting. Please read the below sections for more information on the dataset.
 
 ## Using the Dataset
-The spreadsheet includes user guidance stages grouping eighteen columns. These user guidance stages intentionally divide and describe the data columns among similarities that they share. The interactive Sunburst visualization can be found here: **https://RAI-Measures.onrender.com**. 
+The spreadsheet includes user guidance stages grouping seventeen columns. These user guidance stages intentionally divide and describe the data columns among similarities that they share. The interactive Sunburst visualization can be found here: **https://RAI-Measures.onrender.com**. 
 
 **Target Output (Columns A and B)**: The resulting measures collected in this dataset.
   
@@ -42,7 +42,6 @@ The spreadsheet includes user guidance stages grouping eighteen columns. These u
   
   16. Title (Note its hyperlink to the article itself)
   17. Year
-  18. Key Contributions 
 
 ## Using the Interactive Visualization
 This dataset has a corresponding visualization that can be dynamically interacted with. It can be found as the "Interactive_Visualization_Link_Version_2.0.md" file in this repository.
