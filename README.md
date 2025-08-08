@@ -44,5 +44,5 @@ The spreadsheet includes user guidance stages grouping eighteen columns. These u
   17. Publication Year
   18. DOI Link
 
-## Using the Interactive Visualization
-This dataset has a corresponding visualization that can be dynamically interacted with. It can be found as the "Interactive_Visualization_Link_Version_2.0.md" file in this repository.
+## Using the Interactive Sunburst Visualization
+This dataset has a corresponding visualization that can be dynamically interacted with. It can be found as the "Interactive_Visualization_Link_Version_2.0.md" file in this repository. It has been deployed on a web server named Render.
